@@ -39,11 +39,10 @@ ORDER BY LastName ASC
 
 SELECT COUNT(*)
 FROM Customers
-WHERE [some_column] IS NULL
+WHERE [a_column] IS NULL
 
--- some_column: FirstName, PostalCode, Company, Fax, Phone, Address
--- Answers: Postal Code, Company, Fax, Phone
-
+-- a_column: FirstName, PostalCode, Company, Fax, Phone, Address
+                                                 
 ------------------------------------------------------------------------------------
 -- Q5) Find the cities with the most customers and rank in descending order.
 
