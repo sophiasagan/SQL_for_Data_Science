@@ -26,30 +26,44 @@ In this module, you will be able to define SQL and discuss how SQL differs from 
 Discussion Prompt: Your Goals For This Course...
 
 Video: Course Introduction
+
 Video: Module Introduction
+
 Video: What is SQL Anyway?
+
 Video: Data Models, Part 1: Thinking About Your Data
+
 Video: Data Models, Part 2: The Evolution of Data Models
+
 Video: Data Models, Part 3: Relational vs. Transactional Models
+
 Video: Retrieving Data with a SELECT Statement
+
 Video: Creating Tables
+
 Video: Creating Temporary Tables
+
 Video: Adding Comments to SQL
 
 Practice Quiz: Let's Practice!
+
 Practice Quiz: Practice Simple Select Queries
 
 Video: Summary
 
 Reading: SQL Overview
+
 Reading: Data Modeling and ER Diagrams
 
 Discussion Prompt: Comparing NoSQL and SQL
 
 Graded: Module 1 Quiz
+
 Graded: Module 1 Coding Questions
 
+
 #WEEK 2
+
 
 Filtering, Sorting, and Calculating Data with SQL
 
@@ -58,21 +72,32 @@ In this module, you will be able to use several more new clauses and operators i
 9 videos, 1 reading
 
 Video: Module Introduction
+
 Video: Basics of Filtering with SQL
+
 Video: Advanced Filtering: IN, OR, and NOT
+
 Video: Using Wildcards in SQL
+
 Video: Sorting with ORDER BY
+
 Video: Math Operations
+
 Video: Aggregate Functions
+
 Video: Grouping Data with SQL
+
 Video: Putting it All Together
 
 Reading: SQL for Various Data Science Languages
 
 Graded: Module 2 Quiz
+
 Graded: Module 2 Coding Assignment
 
+
 #WEEK 3
+
 
 Subqueries and Joins in SQL
 
@@ -81,25 +106,38 @@ In this module, you will be able to discuss subqueries, including their advantag
 10 videos, 2 readings
 
 Video: Module Introduction
+
 Video: Using Subqueries
+
 Video: Subquery Best Practices and Considerations
+
 Video: Joining Tables: An Introduction
+
 Video: Cartesian (Cross) Joins
+
 Video: Inner Joins
+
 Video: Aliases and Self Joins
+
 Video: Advanced Joins: Left, Right, and Full Outer Joins
+
 Video: Unions
+
 Video: Summary
 
 Reading: SQL and Python
+
 Reading: Union and Union All
 
 Discussion Prompt: What do you think you'll use?
 
 Graded: Module 3 Quiz
+
 Graded: Module 3 Coding Assignment
 
+
 #WEEK 4
+
 
 Modifying and Analyzing Data with SQL
 
@@ -108,17 +146,27 @@ In this module, you will be able to discuss how to modify strings by concatenati
 10 videos, 3 readings
 
 Video: Module Introduction
+
 Video: Working with Text Strings
+
 Video: Working with Date and Time Strings
+
 Video: Date and Time Strings Examples
+
 Video: Case Statements
+
 Video: Views
+
 Video: Data Governance and Profiling
+
 Video: Using SQL for Data Science, Part 1
+
 Video: Using SQL for Data Science, Part 2
 
 Reading: Additional SQL Resources to Explore
+
 Reading: Welcome to Peer Review Assignments!
+
 Reading: Yelp Dataset SQL Lookup
 
 Video: Course Summary
@@ -126,5 +174,7 @@ Video: Course Summary
 Discussion Prompt: How do you plan on using SQL in the future?
 
 Graded: Module 4 Quiz
+
 Graded: Module 4 Coding Questions
+
 Graded: Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset
